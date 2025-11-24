@@ -1,5 +1,4 @@
 # Java_Assign3
-# JAVA-ASSIGNMENT-3
 📘 Student Result Management System (Java)
 🧩 Project Overview
 
